@@ -14,7 +14,7 @@ export default ({ history }) => {
         </Switch>
         <br />
         <h5>Complex Micro-FrontEnd in React</h5>
-        <Link to="/react">Hello xx React</Link>
+        <Link to="/react">Hello xxxx React</Link>
         <br />
         <Link to="/">Hello World</Link>
       </Router>
