@@ -20,4 +20,4 @@ export default ({ history }) => {
       </Router>
     </div>
   );
-};
+}; 
