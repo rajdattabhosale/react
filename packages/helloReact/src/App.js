@@ -16,7 +16,7 @@ export default ({ history }) => {
         <h5>Complex Micro-FrontEnd in React</h5>
         <Link to="/react">React Applicationt</Link>
         <br />
-        <Link to="/">Anything else</Link>
+        <Link to="/">Anything</Link>
       </Router>
     </div>
   );
